@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="yUD6kGN9psFrwsPEryZA">
+    <mxGraphModel dx="1534" dy="852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-6" edge="1" parent="1" source="htYU40h-6kX4j7YMiT5Z-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="htYU40h-6kX4j7YMiT5Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;text-align: start;&quot;&gt;3S锂电池11.1v&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="70" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-7" edge="1" parent="1" source="htYU40h-6kX4j7YMiT5Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" target="htYU40h-6kX4j7YMiT5Z-29">
+          <mxGeometry relative="1" x="-0.0737" as="geometry">
+            <mxPoint x="450" y="310" as="sourcePoint" />
+            <mxPoint x="630" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-9" edge="1" parent="1" source="htYU40h-6kX4j7YMiT5Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="htYU40h-6kX4j7YMiT5Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-10" edge="1" parent="1" source="htYU40h-6kX4j7YMiT5Z-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="htYU40h-6kX4j7YMiT5Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: transparent; font-size: 16px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;#2c3034&quot; face=&quot;ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace&quot;&gt;TB6612双路驱动带稳压5V&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="330" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="左电机" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="右电机" vertex="1">
+          <mxGeometry height="60" width="120" x="580" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="稳压5V → VIN" vertex="1">
+          <mxGeometry height="30" width="80" x="505" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="XT60开关线" vertex="1">
+          <mxGeometry height="30" width="80" x="220" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VM 12V" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="VM 12V" vertex="1">
+          <mxGeometry height="30" width="60" x="440" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-33" edge="1" parent="1" source="htYU40h-6kX4j7YMiT5Z-29" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;rounded=0;curved=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="htYU40h-6kX4j7YMiT5Z-2">
+          <mxGeometry relative="1" x="-0.0732" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ESP32 主控板" vertex="1">
+          <mxGeometry height="60" width="120" x="640" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="PWM×2 + 方向×4 + STBY（3.3V）" vertex="1">
+          <mxGeometry height="30" width="160" x="470" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="htYU40h-6kX4j7YMiT5Z-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(217, 221, 226); font-family: ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 16.2px; text-align: start; background-color: rgb(39, 40, 43);&quot;&gt;控制系统框图 v1 ｜ 郑丁亮 ｜ 2026-11-23&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="460" x="570" y="550" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
